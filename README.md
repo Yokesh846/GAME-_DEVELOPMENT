@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : Ethicvaran
+NAME : Yokeshwaran A
 
-REG NO: 212224230072
+REG NO: 212224040374
 
 **AIM :**
 
